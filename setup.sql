@@ -49,8 +49,3 @@ INSERT INTO password VALUES (3, 3, 'lightyear', AES_ENCRYPT('44_44TireShop', @ke
 INSERT INTO password VALUES (4, 1, 'slippinjimmy', AES_ENCRYPT('2B_or!2B', @key_str, @init_vector), NOW(), '');
 INSERT INTO password VALUES (4, 2, 'slippinjimmy', AES_ENCRYPT('2B_or!2B', @key_str, @init_vector), NOW(), '');
 INSERT INTO password VALUES (4, 3, 'slippinjimmy', AES_ENCRYPT('2B_or!2B', @key_str, @init_vector), NOW(), '');
-
-
-
-
-
