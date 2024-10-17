@@ -62,7 +62,7 @@ Create MySQL commands to do the following:
 
 ## ❖・Due・❖
 
-Thursday, 10 October 2024, at 3:00 PM. ***Note*: Per the syllabus, NO late submissions will be accepted**
+Thursday, 17 October 2024, at 10:00 PM. ***Note*: Per the syllabus, NO late submissions will be accepted**
 
 ---
 
